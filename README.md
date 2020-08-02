@@ -1,1 +1,1 @@
-# clothing-classificatio
+#clothing-classification
